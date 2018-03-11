@@ -81,6 +81,11 @@ const IndexPage = () => (
                 <li>http://www.npe.org (Drupal 7 Multisite - Acquia)</li>
             </ul>
         </section>
+        <section>
+            <h3>Lead Front-End Developer</h3>
+            <h4>Lightmaker</h4>
+            <p><em>May 2011 to Aug 2017</em></p>
+        </section>
     </div>
 )
 
